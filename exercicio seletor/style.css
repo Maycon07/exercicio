@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(44, 107, 107, 0.611);
+    
+}
+
+h1 {
+color: aqua;
+}
+
+#principal {
+    text-align: center;
+    background-color: blue;
+}
+
+h2 {
+color: bisque;
+}
+
+.basico {
+    color: rgb(0, 0, 0);
+}
